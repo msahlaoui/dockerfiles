@@ -1,2 +1,2 @@
-# dockerfiles
-repo for docker dev
+# nodeJsSampleService
+Sample app to test CI/CD
